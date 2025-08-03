@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kidscodecorner
+  description: codecorner
+spec:
+  type: service
+  owner: default
+  lifecycle: experimental
